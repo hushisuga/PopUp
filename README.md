@@ -26,9 +26,11 @@ PopUP (by HIGHLINE) is a front-end luxury fashion e-commerce website built using
 
 ## 📸 Screenshots
 
-> *(Insert screenshots here using Markdown or drag-and-drop into the repo)*
+![Alt Text](images_fashion_site/head.png) <br>
+![Alt Text](images_fashion_site/head2.png) <br>
+![Alt Text](images_fashion_site/head3.png) <br>
+![Alt Text](images_fashion_site/head4.png) <br>
 
-Example:
 
 
 
@@ -40,7 +42,7 @@ Example:
 
 Example:
 
-[▶️ Watch Demo](https://www.youtube.com/watch?v=your-demo-link)
+[▶️ Watch Demo](https://drive.google.com/file/d/19MFhPDBKPojxeKOQNhXNjCtVPd2bQSZl/view?usp=sharing)
 
 
 
